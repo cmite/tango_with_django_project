@@ -25,7 +25,7 @@ SECRET_KEY = 'fdo6a!14df^6@n-+r_!zi*jncer76&&9v2x5di$a%)e#uh(euh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u"skynet"]
+ALLOWED_HOSTS = [u"skynet", u"demo-django"]
 
 
 # Application definition
